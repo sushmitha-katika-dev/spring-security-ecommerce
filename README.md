@@ -27,10 +27,6 @@ A RESTful E-Commerce backend application built using Spring Boot and Spring Secu
 * Maven
 * Lombok
 * ModelMapper
-* 
-## Spring Security Architecture
-
-![Spring Security](https://media.geeksforgeeks.org/wp-content/uploads/20240411143037/Spring-Security-Architecture.webp)
 
 ## User Roles
 
